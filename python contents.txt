@@ -181,7 +181,7 @@ XML, HTTP, SOAP, Network Programming, I18N, Unicode
 3.	Web Programming
 4.	Internet Data Handling & Encoding	1.	Network, web programming	1.	Unicode and Bytes Strings
 Miscellaneous
-8	//None	1.	Algorithms
+8	None	1.	Algorithms
 2.	Cryptography
 3.	Data compression and archiving
 4.	Processes and Threads
